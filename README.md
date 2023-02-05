@@ -7,7 +7,7 @@ This is a project to create a system for bookstore to view the book inventory an
   - using SQL (sqlite3) to store all book detail.
 </details>
 
-<detail>
+<details>
 <summary>System function</summary>
 # Enter new book
   - system will ask the book detail and add tabulate the result.
