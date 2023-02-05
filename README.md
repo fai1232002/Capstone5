@@ -5,7 +5,7 @@ This is a project to create a system for bookstore to view the book inventory an
   - system using via console view for interaction.
   - using SQL (sqlite3) to store all book detail.
 
-### System function
+### System functions
 Enter new book
 - system will ask the book detail and add tabulate the result.
 
